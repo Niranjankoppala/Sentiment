@@ -1,5 +1,7 @@
 #IMDB Movie Review Sentiment Analysis 
+
 #Description: 
+
 The main aim of this project is classify whether a review given for a movie is positive or negative. 
 
 
